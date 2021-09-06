@@ -8,4 +8,4 @@
     *  03 a, img, tag [code](https://github.com/sjoonl/LikeLion/blob/main/web_html/03_html_link_img.html)
     *  04 div, ul, ol, li [code](https://github.com/sjoonl/LikeLion/blob/main/web_html/04_html_div_span.html)
   * CSS 기본 이해
-    * 갤러리 만들기 (https://sjoonl.github.io/LikeLion/)
+    * 갤러리 만들기 [이동](https://sjoonl.github.io/LikeLion/gallary_project/14_img_gallary2.html) (https://sjoonl.github.io/LikeLion/)
