@@ -1,0 +1,127 @@
+@charset "UTF-8";
+@import url(//fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+
+.header {
+	margin-top: 2em;
+	text-align: center;
+	margin-bottom: 1.5em;
+}
+
+.card.horizontal {
+	margin-top: 0;
+}
+
+.info {
+	width: 40%;
+	margin-left: 0%;
+	margin-top: 3em; 
+}
+
+.brand-logo:hover {
+	color: yellow;
+}
+
+.list {
+	margin-top: 0.5em;
+}
+
+.text {
+	opacity: 1.0;
+	font-size: 1.8em;
+}
+
+.text2 {
+	opacity: 1.0;
+	font-size: 1.8em;
+}
+
+.comment {
+	font-size: 0.7em;
+	color: white;
+}
+
+h1 {
+	font-size: 4.5em;
+	color: white;
+}
+
+.png {
+	margin-top: 5%;
+}
+
+.row .col.s3 {
+	margin-left: 5%;
+}
+
+.nanumpenscript * {
+ font-family: 'Nanum Pen Script', cursive;
+}
+
+/** 이하는 공통 **/
+.normal {
+ font-style: normal;
+}
+
+.w250 {
+ font-weight: 250;
+}
+
+.w300 {
+ font-weight: 300;
+}
+
+.w350 {
+ font-weight: 350;
+}
+
+.w400 {
+ font-weight: 400;
+}
+
+.w500 {
+ font-weight: 500;
+}
+
+.w700 {
+ font-weight: 700;
+}
+
+.w800 {
+ font-weight: 800;
+}
+
+.w900 {
+ font-weight: 900;
+}
+
+li span {
+ line-height: 1.8;
+ font-size: 1.3em;
+}
+
+body > .firstCon{
+	height: 100vh;
+}
+
+.firstCon {
+	width:100%;
+ 	height:100%;
+	background-image: url('../img/aurora.jpg');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.page-footer {
+	background-color: rgba(255, 150, 0, 0.55);
+}
+
+.nav-mango {
+	padding-left: 3em;
+}
+
+.head-comment {
+	font-size: 2em;
+	margin-top: 7em;
+}
