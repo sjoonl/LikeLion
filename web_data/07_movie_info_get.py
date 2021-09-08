@@ -94,3 +94,4 @@ print(dat)
 dat.to_csv("naver_movie_info.csv", index = False)
 dat.to_excel("naver_movie_info.xlsx", index = False)
 
+#수정
