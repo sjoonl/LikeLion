@@ -34,3 +34,4 @@ print("코스피200 지수는: ", KOSPI_200.text)
 
 print("인기 검색 종목", popular)
 
+#수정
