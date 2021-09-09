@@ -9,6 +9,6 @@
     *  04 div, ul, ol, li [code](https://github.com/sjoonl/LikeLion/blob/main/web_html/04_html_div_span.html)
   * CSS 기본 이해
     * 갤러리 만들기 [이동](https://sjoonl.github.io/LikeLion/gallary_project/14_img_gallary2.html) (https://github.com/sjoonl/LikeLion/blob/main/gallary_project/14_img_gallary2.html)
-  * 
   * web 데이터 만들기
-    *네이버 영화 데이터 불러와서 파일 만들기 [code]()
+     *  네이버 영화 데이터 불러와서 파일 만들기 [code](https://github.com/sjoonl/LikeLion/blob/main/web_data/07_movie_info_get.py)
+     *  네이버 영화 댓글 불러와서 시각화 하기 [code](https://github.com/sjoonl/LikeLion/blob/main/web_data/14_my_movie_review.py)
