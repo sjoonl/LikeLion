@@ -4,7 +4,7 @@ from urllib.request import urlopen
 url = 'https://movie.naver.com/movie/point/af/list.naver?&page='
 
 comments = []
-for i in range(1,6,1):
+for i in range(1,51,1):
     new_url = url + str(i)
     page = urlopen(new_url)
     soup = BeautifulSoup(page,'html.parser')
