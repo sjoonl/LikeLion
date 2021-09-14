@@ -14,4 +14,4 @@
      *  네이버 영화 댓글 불러와서 시각화 하기 [code](https://github.com/sjoonl/LikeLion/blob/main/web_data/14_my_movie_review.py)
   
   * web 크롤러 만들기
-    * DBpia 웹크롤러 만들기 
+    * DBpia 웹크롤러 만들기 [code](https://github.com/sjoonl/LikeLion/blob/main/DBpia_crawler/DBpia%20%ED%81%AC%EB%A1%A4%EB%9F%AC.ipynb)
