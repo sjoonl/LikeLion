@@ -16,4 +16,4 @@
   * web 크롤러 만들기
     * DBpia 웹크롤러 만들기 [code](https://github.com/sjoonl/LikeLion/blob/main/DBpia_crawler/DBpia%20%ED%81%AC%EB%A1%A4%EB%9F%AC.ipynb)
 ## 데이터 분석 기본실습
- * 타이타닉 데이터 분석 및 시각화
+ * 타이타닉 데이터 분석 및 시각화 [code](https://github.com/sjoonl/LikeLion/blob/main/Titanic_data/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb)
