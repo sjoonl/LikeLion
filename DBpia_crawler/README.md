@@ -15,3 +15,9 @@ pip install selenium
 pip install BeautifulSoup
 ```
  
+### 실행
+```python3
+crawling_page_number = 클롤링할 페이지 수
+sel_a.send_keys("검색어 입력")
+path = "크롬드라이버 경로지정"
+```
