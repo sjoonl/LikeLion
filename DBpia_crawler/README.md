@@ -27,6 +27,6 @@ path = "크롬드라이버 경로지정"
 
 ### 저장
 ```python3
-dat.to_csv("'파일 명'.csv", index = False)
-dat.to_excel("'파일 명'.xlsx", index = False)
+dat.to_csv(" '파일 명'.csv", index = False)
+dat.to_excel(" '파일 명'.xlsx", index = False)
 ```
