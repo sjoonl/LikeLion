@@ -24,3 +24,9 @@ crawling_page_number = 클롤링할 페이지 수
 sel_a.send_keys("검색어 입력")
 path = "크롬드라이버 경로지정"
 ```
+
+### 저장
+```python3
+dat.to_csv("'파일 명'.csv", index = False)
+dat.to_excel("'파일 명'.xlsx", index = False)
+```
