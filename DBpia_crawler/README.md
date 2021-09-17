@@ -8,9 +8,11 @@
 
 
 ### 데이터 수집 전략
- * DBpia 내에서 논문 키워드를 입력하면 해당 키워드가 들어간 논문들의 정보를 수집한다.  [사이트로 이동](https://www.dbpia.co.kr/)
+ * DBpia 내에서 논문 키워드를 입력하면 해당 키워드가 들어간 논문들의 정보를 수집한다.  [DBpia 사이트로 이동](https://www.dbpia.co.kr/)
  * 파이썬3를 통해 작성하였고 Beautifulsoup과 selenium을 이용하였다.
- * 크롬 드라이버 이용 [다운로드](https://chromedriver.chromium.org/downloads)
+ * 크롬 드라이버 이용 [크롬 드라이버 다운로드](https://chromedriver.chromium.org/downloads)
+
+### 설치
 ```python3
 pip install selenium
 pip install BeautifulSoup
