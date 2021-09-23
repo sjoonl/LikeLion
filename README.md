@@ -19,4 +19,4 @@
    * 파일럿 프로젝트  - 타이타닉 데이터 분석 및 시각화 [code](https://github.com/sjoonl/LikeLion/blob/main/Titanic_data/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb)
 
  * 데이터 시각화
-   * 서울특별시_택시승차대현황 시각
+   * 서울특별시_택시승차대현황 시각[이동](https://sjoonl.github.io/LikeLion/지도시각화/서울특별시_택시승차대현황.html)
