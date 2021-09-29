@@ -23,7 +23,8 @@
 							<li class="tab"><a href="#test1" onclick="scollMove('2')">My Favorite</a></li>
 
 							<li class="tab"><a href="#test1" onclick="scollMove('4')">MY TODOLIST</a></li>
-							<li class="tab"><a onclick="window.open('https://sjoonl.github.io/LikeLion/gallary_project/14_img_gallary2.html')">MY Gallary</a></li>
+							<li class="tab"><a onclick="window.open('https://sjoonl.github.io/LikeLion/sungjoon/gallary/14_img_gallary2.html')">MY Gallary</a></li>
+							<li class="tab"><a onclick="window.open('https://sjoonl.github.io/LikeLion/sungjoon/food_list/나의맛집리스트.html')">MY restaurant list</a></li>
 
 
 						</ul>
@@ -50,12 +51,12 @@
 			<div class="box1 col s12">
 			</div>
 		</div>
-		
+
 		<div class="section1">
 				<div class="row">
 					<hr class="offset-s3 col s6" />
 				</div>
-				
+
 				<div class="row profile png" id="div1" style="margin-bottom: 15%;">
 						<h2 class="center-align">Profile</h2>
 						<div class="offset-m1 col s11 m4 l4 center-align">
@@ -97,9 +98,9 @@
 			<div class="row">
 				<hr class="offset-s3 col s6" />
 			</div>
-			
+
 			<div id="div2">
-				<div class="row png">	
+				<div class="row png">
 					<div class="center-align">
 						<h2>MY FAVORITE</h2>
 					</div>
@@ -117,9 +118,9 @@
 			<div class="row">
 				<hr class="offset-s3 col s6" />
 			</div>
-			
+
 			<div id="div4">
-				<div class="row png">	
+				<div class="row png">
 					<div class="center-align">
 						<h2>MY TODOLIST</h2>
 					</div>
@@ -172,7 +173,7 @@
 		</div>
 
 
-		
+
 		<footer class="page-footer">
 		<div class="container">
 			<div class="row">
@@ -184,7 +185,7 @@
 		</div>
 
 		</footer>
-		
+
 		<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script type="text/javascript" src="js/materialize.min.js"></script>
 		<script>
@@ -192,7 +193,7 @@
 				var offset = $('#div'+seq).offset().top - 60;
 				$('html, body').animate({scrollTop : offset}, 700);
 			}
-			
+
 			function reaction () {
 				if (document.body.clientWidth < 646) {
 						$(".head-comment").removeClass("offset-l1 col l11");
@@ -208,10 +209,10 @@
 			}
 
 			$('.carousel.carousel-slider').carousel({fullWidth: true});
-			
+
 			$(document).ready(function() {
 				$("#year").val(new Date().getFullYear() - 1993 + 1);
-				
+
 				reaction();
 				$(window).resize(function() {
 					//창크기 변화 감지
