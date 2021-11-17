@@ -3,6 +3,7 @@
 
 ## 내용
   * 웹의 이해 및 HTML 기본실습 [이동](https://github.com/sjoonl/LikeLion/tree/main/web)
-  * Machine Learning
-  * Deep Learning
+  * Machine Learning [이동](https://github.com/sjoonl/LikeLion/tree/main/machin_learning)
+  * Deep Learning [이동](https://github.com/sjoonl/LikeLion/tree/main/deep_learning)
+  * project [이동](https://github.com/sjoonl/LikeLion/tree/main/project/Dacon)
 
