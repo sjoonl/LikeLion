@@ -41,7 +41,7 @@
   + 김수경, 김영선, 신혜리(2020) 중고령자의 디지털정보역량수준 예측요인 분석: 성별 차이를 중심으로
   + “디지털 배움터, 주먹구구 배정으로 지자체별 차별 심각”,디지털 데일리,2021.10.08.
 
-
-
+## 최종 발표자료
+  + [pdf](https://github.com/sjoonl/LikeLion/blob/main/project/2021_seoul_bigdata_campus_competition/%5B2021%20%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B9%85%EC%BA%A0%EA%B3%B5%EB%AA%A8%EC%A0%84%5D_%5B%EB%94%94%EC%86%8C%EC%84%9C%5D_%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC%EC%84%9C.pptx)
 
 
