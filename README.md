@@ -18,6 +18,8 @@
 * 주제: 한국가스공사의 시간단위 가스 공급량 데이터와 기상 데이터 및 유가 데이터를 종합한 데이터셋을 구축하여 90일 한도 일간 공급량을 예측하는 인공지능 모델을 개발
 * 기간: 2021.10.11 ~ 2021.12.10
 * 역할: 팀장
+* 분석에 사용한 기술
   + 데이터 전처리 및 EDA: python, pandas, numpy, matplotlib, seaborn
   + 머신러닝 모델 : scikit learn- LinearRegression, RandomForest, Xgboost, LightGBM, Catboost, PyCaret
   + 평가지표: NMAE, MSE, RMSE, MAE
+
