@@ -22,6 +22,6 @@
   + 데이터 전처리 및 EDA: python, pandas, numpy, matplotlib, seaborn
   + 머신러닝 모델 : scikit learn- LinearRegression, RandomForest, Xgboost, LightGBM, Catboost, PyCaret
   + 평가지표: NMAE, MSE, RMSE, MAE
-
+ 
 ### 파일럿 프로젝트
 
