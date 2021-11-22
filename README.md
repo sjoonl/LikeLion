@@ -24,4 +24,5 @@
   + 평가지표: NMAE, MSE, RMSE, MAE
  
 ### 파일럿 프로젝트
+ * DBPIA 크롤러
 
