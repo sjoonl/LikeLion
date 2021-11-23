@@ -24,5 +24,5 @@
   + 평가지표: NMAE, MSE, RMSE, MAE
  
 ### 파일럿 프로젝트
- * DBPIA 크롤러
+ * DBPIA 크롤러[이동](https://github.com/sjoonl/LikeLion_DataCourse/tree/main/web/DBpia_crawler)
 
